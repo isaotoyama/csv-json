@@ -2,7 +2,7 @@ import csv
 import json
 
 # The path to the CSV file you want to convert
-csv_file_path = 'data/cs.csv'
+csv_file_path = 'data/csv3.csv'
 
 # The path where the JSON file will be saved
 json_file_path = 'data/cs.json'
